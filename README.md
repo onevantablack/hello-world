@@ -1,3 +1,3 @@
 # hello-world
 Exercise hello-world
-Test commint #1
+Test commit #1
